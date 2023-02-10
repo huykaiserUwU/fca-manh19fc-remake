@@ -4,9 +4,13 @@
     "url": "https://github.com/Schmavery/facebook-chat-api/issues"
   },
   "dependencies": {
+    "aes-js": "latest",
+    "axios": "latest",
+    "crypto": "latest",
     "bluebird": "^2.11.0",
     "cheerio": "^1.0.0-rc.10",
     "https-proxy-agent": "^4.0.0",
+    "dotenv": "^16.0.1",
     "mqtt": "^4.2.8",
     "npmlog": "^1.2.0",
     "request": "^2.88.2",
